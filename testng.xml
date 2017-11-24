@@ -1,0 +1,7 @@
+<suite name="Regression TestSuite">
+	<test name="Firefox Test">
+		<classes>
+			<class name="com.expedia.flightsbooking.TestNG_TestSuite"></class>
+		</classes>
+	</test>
+</suite>
